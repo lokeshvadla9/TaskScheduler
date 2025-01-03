@@ -65,5 +65,5 @@ A Task Scheduling and User Management API built with **.NET Core** and **SQL Ser
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/TaskSchedulerApp.git
-   cd TaskSchedulerApp
+   git clone https://github.com/lokeshvadla9/TaskScheduler.git
+   cd TaskScheduler
